@@ -5,6 +5,6 @@ Before running the project do an `npm install`
 
 An empty SQLite database is provided along with source for testing.
 
-To run the application run: `npm run init-server-hapi`
+To run the application: `npm run init-server-hapi`
 
-To run the tests run: `npm run test`
+To run the tests: `npm run test`
